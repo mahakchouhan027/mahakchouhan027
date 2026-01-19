@@ -5,7 +5,11 @@ B.Tech Graduate (Artificial Intelligence & Data Science) | Python Developer | Ma
 </h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220"/>
+  <img 
+    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
+    width="280"
+    alt="Coding animation"
+  />
 </p>
 
 <p align="center">
@@ -24,12 +28,11 @@ B.Tech Graduate (Artificial Intelligence & Data Science) | Python Developer | Ma
 
 ## 👩‍💻 About Me
 
-I am a **B.Tech graduate in Artificial Intelligence & Data Science (CGPA: 7.81)** with a strong interest in **Python development and Machine Learning**.
+I am a **B.Tech graduate in Artificial Intelligence & Data Science (CGPA: 7.81)** with a strong interest in  
+**Python development and Machine Learning**.
 
-I enjoy working with data, understanding patterns, and building machine learning models that solve real problems.  
-Currently, I am focused on improving my skills in **Machine Learning, Data Analytics, and backend development**.
-
-**Aspiring Python Developer with hands-on experience in Machine Learning, Data Analysis, and backend development, focused on building practical, real-world solutions.**
+I enjoy working with data, understanding patterns, and building practical solutions using code.  
+Currently, I am focusing on strengthening my skills in **Machine Learning, Data Analytics, and backend development**.
 
 📍 Based in India
 
@@ -37,35 +40,35 @@ Currently, I am focused on improving my skills in **Machine Learning, Data Analy
 
 ## 🛠️ Technical Skills
 
-### 💻 Programming & Core
-<p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp" />
-</p>
+### 🔹 Programming Languages
+- **Python**  
+- C, C++
 
-### 🌐 Web & Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,django,flask" />
-</p>
+### 🔹 Web & Backend Technologies
+- HTML, CSS, JavaScript  
+- Django, Flask  
+- React (basic)
 
-### 🤖 Machine Learning & Data
-- Machine Learning  
-- Data Preprocessing  
-- Exploratory Data Analysis (EDA)  
+### 🔹 Machine Learning & Data Analytics
+- Machine Learning concepts  
+- Data Preprocessing & EDA  
 - Model Training & Evaluation  
-- NumPy, Pandas, Matplotlib, Seaborn  
-- scikit-learn, TensorFlow  
 
-### 🧰 Tools & Platforms
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,mysql" />
-</p>
+Libraries & Tools:
+- NumPy, Pandas  
+- Matplotlib, Seaborn  
+- scikit-learn, TensorFlow
 
+### 🔹 Tools & Platforms
+- Git & GitHub  
+- VS Code  
 - Jupyter Notebook  
+- MySQL  
 - Kaggle  
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mahakchouhan027&show_icons=true&theme=tokyonight"/>
@@ -77,4 +80,4 @@ Currently, I am focused on improving my skills in **Machine Learning, Data Analy
 
 ---
 
-✨ Continuously learning, building skills, and growing as a Python & Machine Learning developer.
+✨ I am continuously learning, practicing, and improving my skills as a Python and Machine Learning developer.
