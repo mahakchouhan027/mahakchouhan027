@@ -1,26 +1,21 @@
 <h1 align="center">Hi 👋, I'm Mahak Chouhan</h1>
-
 <h3 align="center">
-B.Tech Graduate (Artificial Intelligence & Data Science) | Python Developer | Machine Learning Enthusiast
+B.Tech Graduate (Artificial Intelligence & Data Science) | Python & ML Enthusiast
 </h3>
 
 <p align="center">
-  <img 
-    src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" 
-    width="280"
-    alt="Coding animation"
-  />
+  Curious learner • Problem solver • Growing Python developer
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mahak-chouhan-a1529b272">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin"/>
   </a>
   <a href="mailto:mahakchouhan012@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-Contact-red?logo=gmail"/>
   </a>
   <a href="https://github.com/mahakchouhan027">
-    <img src="https://img.shields.io/badge/GitHub-black?logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-Profile-black?logo=github"/>
   </a>
 </p>
 
@@ -28,56 +23,59 @@ B.Tech Graduate (Artificial Intelligence & Data Science) | Python Developer | Ma
 
 ## 👩‍💻 About Me
 
-I am a **B.Tech graduate in Artificial Intelligence & Data Science (CGPA: 7.81)** with a strong interest in  
-**Python development and Machine Learning**.
+I am a **B.Tech graduate in Artificial Intelligence & Data Science (CGPA: 7.81)** with a strong interest in **Python, Machine Learning, and Data Analytics**.
 
-I enjoy working with data, understanding patterns, and building practical solutions using code.  
-Currently, I am focusing on strengthening my skills in **Machine Learning, Data Analytics, and backend development**.
+I enjoy working with data, understanding how things work behind the scenes, and building solutions step by step.  
+Right now, I am focused on strengthening my fundamentals and gaining real-world experience through practice and projects.
 
-📍 Based in India
+📍 Based in India  
+🎯 Actively learning and improving every day
 
 ---
 
 ## 🛠️ Technical Skills
 
-### 🔹 Programming Languages
-- **Python**  
-- C, C++
+### 🐍 Programming Languages
+- [Python](https://www.python.org/)
+- [C](https://en.wikipedia.org/wiki/C_(programming_language))
+- [C++](https://isocpp.org/)
 
-### 🔹 Web & Backend Technologies
-- HTML, CSS, JavaScript  
-- Django, Flask  
-- React (basic)
+### 🌐 Web & Backend
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [React](https://react.dev/)
+- [Django](https://www.djangoproject.com/)
+- [Flask](https://flask.palletsprojects.com/)
 
-### 🔹 Machine Learning & Data Analytics
-- Machine Learning concepts  
-- Data Preprocessing & EDA  
-- Model Training & Evaluation  
+### 📊 Machine Learning & Data Analytics
+- [NumPy](https://numpy.org/)
+- [Pandas](https://pandas.pydata.org/)
+- [Matplotlib](https://matplotlib.org/)
+- [Seaborn](https://seaborn.pydata.org/)
+- [Scikit-learn](https://scikit-learn.org/)
+- [TensorFlow](https://www.tensorflow.org/)
 
-Libraries & Tools:
-- NumPy, Pandas  
-- Matplotlib, Seaborn  
-- scikit-learn, TensorFlow
-
-### 🔹 Tools & Platforms
-- Git & GitHub  
-- VS Code  
-- Jupyter Notebook  
-- MySQL  
-- Kaggle  
-
----
-
-## 📈 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mahakchouhan027&show_icons=true&theme=tokyonight"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahakchouhan027&theme=tokyonight"/>
-</p>
+### 🧰 Tools & Platforms
+- [Git](https://git-scm.com/)
+- [GitHub](https://github.com/)
+- [VS Code](https://code.visualstudio.com/)
+- [Jupyter Notebook](https://jupyter.org/)
+- [MySQL](https://www.mysql.com/)
+- [Kaggle](https://www.kaggle.com/)
 
 ---
 
-✨ I am continuously learning, practicing, and improving my skills as a Python and Machine Learning developer.
+## 📊 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mahakchouhan027&show_icons=true&theme=transparent"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahakchouhan027&theme=transparent"/>
+</p>
+
+---
+
+✨ *Learning consistently, improving skills, and growing as a Python & Machine Learning developer.*
