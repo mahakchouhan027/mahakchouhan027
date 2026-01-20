@@ -78,4 +78,4 @@ Right now, I am focused on strengthening my fundamentals and gaining real-world 
 
 ---
 
-✨ *Learning consistently, improving skills, and growing as a Python & Machine Learning developer.*
+✨ *Learning consistently, improving skills, and growing as a Python & Machine Learning developer.
